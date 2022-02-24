@@ -24,6 +24,7 @@ public class Controller1 extends JFrame
     private JButton quit;        // As it says
     
     // Constructor
+    // 3 parameters added to constructor.
     public Controller1(Model model, String title, int cX, int cY ) {
         
         // Record reference to the model
