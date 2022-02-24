@@ -20,6 +20,7 @@ public class Controller2 extends JFrame
     private JButton refreshViews; // To prompt them to refresh their contents from the model
  
     // Constructor
+    // 3 parameters added to constructor
     public Controller2(Model model, String title, int cX, int cY) {
     
         // Record reference to the model
